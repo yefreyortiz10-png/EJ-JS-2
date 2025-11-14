@@ -1,2 +1,2 @@
 # EJ-JS-2
-Este es un ejemplo de repositorio
+Este es un ejemplo de repositorio de JavaScript
